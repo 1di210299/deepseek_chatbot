@@ -1,0 +1,16 @@
+{
+  "id": "1acfe7a8-155a-45f5-a716-86c26429994b",
+  "last_updated": "2025-03-03T21:58:55.006180",
+  "name": "(unnamed)",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hola"
+    },
+    {
+      "role": "assistant",
+      "content": "\n\n¡Hola! ¿En qué puedo ayudarte hoy? 😊",
+      "thinking": "\n\n"
+    }
+  ]
+}
